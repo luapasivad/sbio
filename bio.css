@@ -1,0 +1,44 @@
+h1 {
+    font-family: 'Times New Roman', Times, serif;
+    background-color: black;
+    color: white;
+    text-align: center;
+    margin: 0px;
+    padding: 20px;
+}
+
+.all {
+    width: 1024px;
+    margin: 0 auto;
+}
+
+h2, h3 {
+    font-size: 32;
+}
+
+.bioFull, img, .contact {
+    float: left;
+}
+
+img {
+    margin-right: 25px;
+}
+
+.bioFull {
+    width: 70%;
+    margin-left: 15px;
+}
+
+body {
+	  padding: 0;
+	  margin: 0;
+	  font-family: Georgia, "Times New Roman", Times, serif;
+	  font-size: 18px;
+	  line-height: 150%;
+	  color: #333;
+      background: #efeee7;
+}
+
+p {
+    margin-right: 30px;
+}
